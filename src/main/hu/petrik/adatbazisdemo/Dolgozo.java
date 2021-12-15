@@ -1,4 +1,4 @@
-package hu.petrik.adatbazisdemo;
+package main.hu.petrik.adatbazisdemo;
 
 public class Dolgozo {
     private int id;
